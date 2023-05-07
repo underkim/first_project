@@ -50,3 +50,6 @@
 2. 기획안 보기
 
 3. 아이디어 제안하기
+
+## 기획(스케치)
+![기획안](https://user-images.githubusercontent.com/51310308/236660390-1b245069-10b5-4cdb-a772-c26ecb30ec47.jpg)
