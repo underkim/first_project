@@ -1,7 +1,7 @@
 # first_project
 첫번째 프로젝트
 
-<span style= "color:red">주의사항: master branch에 병합하지 말것 (개인 branch 활용)</span>
+<mark>주의사항: master branch에 병합하지 말것 (개인 branch 활용)</mark>
 
 
 **프로젝트의 목적**
